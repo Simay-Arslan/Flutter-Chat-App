@@ -47,7 +47,6 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC7QU_Q6fXXV2AE2fJmOhNgDKxSi-u0usU',
     appId: '1:697234845456:web:4aa7a70bacbb97a8977f95',
     messagingSenderId: '697234845456',
     projectId: 'chat-app-44ed7',
@@ -56,7 +55,6 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC6JxXcWRRvuryOMjOYuTPQcgGV5lv2lDE',
     appId: '1:697234845456:android:e0123cd671131d5c977f95',
     messagingSenderId: '697234845456',
     projectId: 'chat-app-44ed7',
@@ -64,7 +62,6 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA-T7rQfr59qdJNmpmaSWX0Oor76UEOaA4',
     appId: '1:697234845456:ios:b10fdae7ec4c0d22977f95',
     messagingSenderId: '697234845456',
     projectId: 'chat-app-44ed7',
